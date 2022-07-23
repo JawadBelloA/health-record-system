@@ -1,0 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
+.breadcrumb{
+    margin-top: 1.5rem !important;
+}
+.main-cont{
+    margin-top: 10%;
+}
+.how-we-do-it-img{
+    width: 100px;
+}
+.logo{
+    border-radius: 4px;
+    padding: .22rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
